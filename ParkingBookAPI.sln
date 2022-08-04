@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingBookAPI", "ParkingBookAPI\ParkingBookAPI.csproj", "{39B21B6F-3712-477E-976F-B23923D03D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModels", "DataModels\DataModels.csproj", "{180C0507-5B51-4302-A533-AB752EDC9FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B21B6F-3712-477E-976F-B23923D03D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B21B6F-3712-477E-976F-B23923D03D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B21B6F-3712-477E-976F-B23923D03D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B21B6F-3712-477E-976F-B23923D03D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180C0507-5B51-4302-A533-AB752EDC9FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180C0507-5B51-4302-A533-AB752EDC9FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180C0507-5B51-4302-A533-AB752EDC9FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180C0507-5B51-4302-A533-AB752EDC9FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA41FB17-6FCB-43FB-896F-F2F8E397C48B}
+	EndGlobalSection
+EndGlobal
